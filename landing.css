@@ -1,0 +1,11 @@
+@media only screen and (orientation: landscape) {
+    body {
+        background-color: #d3d3d3;
+    }
+}
+
+@media only screen and (orientation: portrait) {
+    body {
+        background-color: e0ffff;
+    }
+}
