@@ -9,3 +9,7 @@
         background-color: e0ffff;
     }
 }
+
+#form {
+    display: flex;
+}
